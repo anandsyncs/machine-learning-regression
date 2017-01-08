@@ -1,2 +1,2 @@
-# machine-learning
-This has some cool machine learning implementations using Ipython  and Graphlab Create.
+# machine-learning-regression
+Predicting housing prices using Ipython  and Graphlab Create.
